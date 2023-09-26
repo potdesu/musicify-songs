@@ -1,0 +1,14 @@
+{
+    "latestVersion": "2.5.0",
+    "indexName":"Apollo",
+    "songs": [
+      {
+        "type":"song",
+        "name":"Seven",
+        "author": "Jungkook",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/jungkook/jungkook/jungkook-seven.dfpwm",
+        "time": 184
+      }
+    ]
+  }
