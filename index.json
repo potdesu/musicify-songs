@@ -41,6 +41,14 @@
         "speed": 1,
         "file":"https://github.com/potdesu/musicify-songs/raw/main/bella-poarch/Bella%20Poarch%20-%20Crush.dfpwm",
         "time": 175
+      },
+      {
+        "type":"song",
+        "name":"ASAP",
+        "author": "NewJeans",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ASAP.dfpwm",
+        "time": 134
       }
     ]
   }
