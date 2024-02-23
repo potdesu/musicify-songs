@@ -4,38 +4,6 @@
     "songs": [
       {
         "type":"song",
-        "name":"Seven",
-        "author": "Jungkook",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/jungkook/jungkook-seven.dfpwm",
-        "time": 184
-      },
-      {
-        "type":"song",
-        "name":"Super Shy",
-        "author": "NewJeans",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/newjeans-super%20shy.dfpwm",
-        "time": 156
-      },
-      {
-        "type":"song",
-        "name":"ETA",
-        "author": "NewJeans",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ETA.dfpwm",
-        "time": 151
-      },
-      {
-        "type":"song",
-        "name":"ASAP",
-        "author": "NewJeans",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ASAP.dfpwm",
-        "time": 134
-      },
-      {
-        "type":"song",
         "name":"Vampire",
         "author": "Olivia Rodrigo",
         "speed": 1,
@@ -52,59 +20,27 @@
       },
       {
         "type":"song",
-        "name":"Fallin' Flower",
-        "author": "Seventeen",
+        "name":"2 of us",
+        "author": "LØLØ",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/seventeen/Seventeen%20-%20Fallin'%20Flower.dfpwm",
-        "time": 209
-      },
-      {
-        "type":"song",
-        "name":"Kidult",
-        "author": "Seventeen",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/seventeen/Seventeen%20-%20Kidult.dfpwm",
-        "time": 191
-      },
-      {
-        "type":"song",
-        "name":"Black Eye",
-        "author": "Vernon",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/seventeen/Vernon%20-%20Black%20Eye.dfpwm",
-        "time": 178
-      },
-      {
-        "type":"song",
-        "name":"Back Door",
-        "author": "Stray Kids",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/straykids/Stray%20Kids%20-%20Back%20Door.dfpwm",
-        "time": 189
-      },
-      {
-        "type":"song",
-        "name":"God's Menu",
-        "author": "Stray Kids",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/straykids/Stray%20Kids%20-%20God's%20Menu.dfpwm",
+        "file":"https://github.com/potdesu/musicify-songs/blob/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm",
         "time": 167
       },
       {
         "type":"song",
-        "name":"S-Class",
-        "author": "Stray Kids",
+        "name":"hot girls in hell",
+        "author": "LØLØ",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/straykids/Stray%20Kids%20-%20S-Class.dfpwm",
-        "time": 195
+        "file":"https://github.com/potdesu/musicify-songs/blob/main/lolo/L%C3%98L%C3%98%20-%20hot%20girls%20in%20hell.dfpwm",
+        "time": 170
       },
       {
         "type":"song",
-        "name":"Social Path",
-        "author": "Stray Kids, Lisa",
+        "name":"faceplant",
+        "author": "LØLØ",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/straykids/Stray%20Kids%2C%20Lisa%20-%20Social%20Path.dfpwm",
-        "time": 201
+        "file":"https://github.com/potdesu/musicify-songs/blob/main/lolo/faceplant%20-%20L%C3%98L%C3%98.dfpwm",
+        "time": 161
       }
     ]
   }
