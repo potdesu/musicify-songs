@@ -25,6 +25,14 @@
         "speed": 1,
         "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm",
         "time": 167
+      },
+      {
+        "type":"song",
+        "name":"hot girls in hell",
+        "author": "Lolo",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20hot%20girls%20in%20hell.dfpwm",
+        "time": 170
       }
     ]
   }
