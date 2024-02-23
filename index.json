@@ -4,6 +4,27 @@
     "songs": [
       {
         "type":"song",
+        "name":"ASAP",
+        "author": "NewJeans",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ASAP.dfpwm"
+      },
+      {
+        "type":"song",
+        "name":"ETA",
+        "author": "NewJeans",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ETA.dfpwm"
+      },
+      {
+        "type":"song",
+        "name":"Super Shy",
+        "author": "NewJeans",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/newjeans-super%20shy.dfpwm"
+      },
+      {
+        "type":"song",
         "name":"Vampire",
         "author": "Olivia Rodrigo",
         "speed": 1,
