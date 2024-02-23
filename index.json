@@ -17,6 +17,14 @@
         "speed": 1,
         "file":"https://github.com/potdesu/musicify-songs/raw/main/bella-poarch/Bella%20Poarch%20-%20Crush.dfpwm",
         "time": 175
+      },
+      {
+        "type":"song",
+        "name":"2 of us",
+        "author": "Lolo",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm",
+        "time": 167
       }
     ]
   }
