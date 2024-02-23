@@ -28,32 +28,35 @@
         "name":"Vampire",
         "author": "Olivia Rodrigo",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/olivia-rodrigo/olivia%20rodrigo%20-%20vampire.dfpwm",
-        "time": 219
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/olivia-rodrigo/olivia%20rodrigo%20-%20vampire.dfpwm"
       },
       {
         "type":"song",
         "name":"Crush",
         "author": "Bella Poarch, Lauv",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/bella-poarch/Bella%20Poarch%20-%20Crush.dfpwm",
-        "time": 175
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/bella-poarch/Bella%20Poarch%20-%20Crush.dfpwm"
       },
       {
         "type":"song",
         "name":"2 of us",
         "author": "Lolo",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm",
-        "time": 167
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm"
       },
       {
         "type":"song",
         "name":"hot girls in hell",
         "author": "Lolo",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20hot%20girls%20in%20hell.dfpwm",
-        "time": 170
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20hot%20girls%20in%20hell.dfpwm"
+      },
+      {
+        "type":"song",
+        "name":"omg",
+        "author": "Lolo",
+        "speed": 1,
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20omg.dfpwm"
       }
     ]
   }
