@@ -4,59 +4,10 @@
     "songs": [
       {
         "type":"song",
-        "name":"ASAP",
-        "author": "NewJeans",
+        "name":"Pager",
+        "author": "Lyn Lapid",
         "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ASAP.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"ETA",
-        "author": "NewJeans",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/NewJeans%20-%20ETA.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"Super Shy",
-        "author": "NewJeans",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/newjeans/newjeans-super%20shy.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"Vampire",
-        "author": "Olivia Rodrigo",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/olivia-rodrigo/olivia%20rodrigo%20-%20vampire.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"Crush",
-        "author": "Bella Poarch, Lauv",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/bella-poarch/Bella%20Poarch%20-%20Crush.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"2 of us",
-        "author": "Lolo",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%202%20of%20us.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"hot girls in hell",
-        "author": "Lolo",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20hot%20girls%20in%20hell.dfpwm"
-      },
-      {
-        "type":"song",
-        "name":"omg",
-        "author": "Lolo",
-        "speed": 1,
-        "file":"https://github.com/potdesu/musicify-songs/raw/main/lolo/L%C3%98L%C3%98%20-%20omg.dfpwm"
+        "file":"https://github.com/potdesu/musicify-songs/raw/main/songs/Pager%20-%20Lyn%20Lapid.dfpwm"
       }
     ]
   }
